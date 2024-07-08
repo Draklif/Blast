@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79bddae35b06e949b558e6836245f11, type: 3}
+  m_Name: RPG
+  m_EditorClassIdentifier: 
+  bulletAsset: {fileID: 3169900944160269930, guid: 80f88aa3d652baf4d90dcb9f260d87e9, type: 3}
+  bulletGravity: 1
+  bulletForce: 50
+  bulletTTL: 15
+  gunDelay: 2
+  gunName: RPG
+  gunDescription: "Dispara un misil guiado que sigue al objetivo m\xE1s cercano"

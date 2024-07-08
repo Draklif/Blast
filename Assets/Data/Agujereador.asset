@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79bddae35b06e949b558e6836245f11, type: 3}
+  m_Name: Agujereador
+  m_EditorClassIdentifier: 
+  bulletAsset: {fileID: 2202189046916824422, guid: d0034330107d21240b2b58f8cb00d07a, type: 3}
+  bulletGravity: 0
+  bulletForce: 500
+  bulletTTL: 5
+  gunDelay: 1
+  gunName: Agujereador
+  gunDescription: "Dispara un agujero negro que atrae los elementos cercanos hacia
+    \xE9l"
